@@ -328,7 +328,6 @@ Meta
 * [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065)
 * [Programming Game AI by Example](http://www.amazon.com/dp/1556220782?tag=game-prog-books-20)
 * [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/)
-* :free: [Somurra Arcade Club](https://somurra.com/juegos/donde-publicar) - Free portal to publish original browser games (Unity WebGL, Godot, GameMaker, HTML5); creators keep 75% of player treasures. Spanish-language.
 * [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
 * [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
 * [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
